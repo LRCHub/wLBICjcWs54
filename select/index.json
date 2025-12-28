@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Artificial Light",
+  "base_artist": "Orangestar",
+  "createdAt": "2025-12-28T08:26:44.145720Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Artificial Light",
+      "artist": "The Kinks",
+      "has_synced": false,
+      "path": "select/01_Artificial_Light_The_Kinks.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Artificial Light",
+      "artist": "Demon Hunter",
+      "has_synced": true,
+      "path": "select/02_Artificial_Light_Demon_Hunter.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Artificial Light",
+      "artist": "Rainer Maria",
+      "has_synced": true,
+      "path": "select/03_Artificial_Light_Rainer_Maria.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Artificial Light",
+      "artist": "Typhoon",
+      "has_synced": true,
+      "path": "select/04_Artificial_Light_Typhoon.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Artificial Light (Bonus Track)",
+      "artist": "The Kinks",
+      "has_synced": false,
+      "path": "select/05_Artificial_Light_(Bonus_Track)_The_Kinks.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Artificial Light",
+      "artist": "TYPHOON",
+      "has_synced": true,
+      "path": "select/06_Artificial_Light_TYPHOON.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Artificial Light",
+      "artist": "Robert Pollard",
+      "has_synced": false,
+      "path": "select/07_Artificial_Light_Robert_Pollard.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Artificial Light",
+      "artist": "emptyself",
+      "has_synced": true,
+      "path": "select/08_Artificial_Light_emptyself.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Artificial Light",
+      "artist": "Demon Hunter",
+      "has_synced": true,
+      "path": "select/09_Artificial_Light_Demon_Hunter.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Artificial Light",
+      "artist": "Demon Hunter",
+      "has_synced": true,
+      "path": "select/10_Artificial_Light_Demon_Hunter.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Artificial Light (Of All the Living Lies)",
+      "artist": "Sagittarius",
+      "has_synced": false,
+      "path": "select/11_Artificial_Light_(Of_All_the_Living_Lies)_Sagittarius.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Artificial Light",
+      "artist": "Demon Hunter",
+      "has_synced": true,
+      "path": "select/12_Artificial_Light_Demon_Hunter.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Artificial Light",
+      "artist": "Rainer Maria",
+      "has_synced": false,
+      "path": "select/13_Artificial_Light_Rainer_Maria.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Artificial Light",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/pl_01_Artificial_Light_Orangestar.txt"
+    }
+  ]
+}
